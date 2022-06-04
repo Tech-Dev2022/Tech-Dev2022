@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Tech-Dev2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in fintech & bioinformatics
+- 🌱 I’m currently learning backend development with frameworks like Django, fastapi and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... email: chewe.kasonde@outlook.com
 
-<!---
-Tech-Dev2022/Tech-Dev2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
